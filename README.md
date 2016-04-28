@@ -1,0 +1,2 @@
+# NS_ASSUME_NONNULL_BEGINTools
+can add NS_ASSUME_NONNULL_BEGIN and  NS_ASSUME_NONNULL_END key to xcode template
